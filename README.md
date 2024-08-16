@@ -28,7 +28,7 @@ Spring Boot
 <br>
 
 # Frontend:
- Angular
+ Angular link: https://github.com/Tushark00/Delegate-UI.git
 <br>
 
 # Database:
